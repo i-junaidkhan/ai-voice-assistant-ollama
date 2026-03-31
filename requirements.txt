@@ -18,3 +18,9 @@ pygame==2.5.2
 
 # Gestion des erreurs audio (optionnel)
 pywin32==306  # Pour Windows uniquement
+
+
+
+fastapi
+uvicorn
+pydantic
